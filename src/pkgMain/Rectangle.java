@@ -19,6 +19,6 @@ public class Rectangle {
 	{
 		// TODO Implement Area() function with the correct formula
 		//test change
-		return 0;
+		return Length*Width;
 	}	
 }
